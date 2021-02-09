@@ -1,0 +1,166 @@
+{% extends 'base.html' %}
+<!DOCTYPE html>
+<html lang="en">
+{% load static %}
+
+<head>
+    <title>Education Master Template</title>
+    <!-- META TAGS -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Education master is one of the best educational html template, it's suitable for all education websites like university,college,school,online education,tution center,distance education,computer education">
+    <meta name="keyword" content="education html template, university template, college template, school template, online education template, tution center template">
+
+</head>
+
+<body>
+{% block body %}
+    <!-- SLIDER -->
+    <section>
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner">
+                <div class="item slider1 active demo_back">
+                    <img src="{% static 'images/slider/1.jpg' %}" alt="">
+                    <div class="carousel-caption slider-con">
+                        <h2>Welcome to <br><span>University Recommendation System</span></h2>
+                        <p>This system will help you to increase the change of getting admission on your dream university</p>
+                        <a href="/get-recommendation" class="bann-btn-1">Get Recommendation</a>
+{#                        <a href="#" class="bann-btn-2">Read More</a>#}
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="{% static 'images/slider/2.jpg' %}" alt="">
+                    <div class="carousel-caption slider-con">
+                        <h2>Welcome to <br><span>University Recommendation System</span></h2>
+                        <p>This system will help you to increase the change of getting admission on your dream university</p>
+                        <a href="/get-recommendation" class="bann-btn-1">Get Recommendation</a>
+{#                        <a href="#" class="bann-btn-2">Read More</a>#}
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="{% static 'images/slider/3.jpg' %}" alt="">
+                    <div class="carousel-caption slider-con">
+                        <h2>Welcome to <br><span>University Recommendation System</span></h2>
+                        <p>This system will help you to increase the change of getting admission on your dream university</p>
+                        <a href="/get-recommendation" class="bann-btn-1">Get Recommendation</a>
+{#                        <a href="#" class="bann-btn-2">Read More</a>#}
+                    </div>
+                </div>
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                <i class="fa fa-chevron-left slider-arr"></i>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                <i class="fa fa-chevron-right slider-arr"></i>
+            </a>
+        </div>
+    </section>
+
+    <!-- QUICK LINKS -->
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="wed-hom-ser">
+                    <ul>
+                        <li>
+                            <a href="/university-list" class="waves-effect waves-light btn-large wed-pop-ser-btn"><img src="{% static 'images/icon/h-ic1.png' %}" alt=""> Universities</a>
+                        </li>
+                        <li>
+                            <a href="/get-recommendation" class="waves-effect waves-light btn-large wed-pop-ser-btn"><img src="{% static 'images/icon/h-ic2.png' %}" alt=""> Admission</a>
+                        </li>
+                        <li>
+                            <a href="#" class="waves-effect waves-light btn-large wed-pop-ser-btn"><img src="{% static 'images/icon/h-ic4.png' %}" alt=""> Scholarships</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- DISCOVER MORE -->
+    <section>
+        <div class="container com-sp pad-bot-70">
+            <div class="row">
+                <div class="con-title">
+                    <h2>Discover <span>More</span></h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="ed-course">
+                    <div class="col-md-3 col-sm-4 col-xs-12">
+                        <div class="ed-course-in">
+                            <a class="course-overlay" href="about.html">
+                                <img src="{% static 'images/h-about.jpg' %}" alt="">
+                                <span>Universities</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-xs-12">
+                        <div class="ed-course-in">
+                            <a class="course-overlay" href="/university-list">
+                                <img src="{% static 'images/h-adm1.jpg' %}" alt="">
+                                <span>Admission</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-xs-12">
+                        <div class="ed-course-in">
+                            <a class="course-overlay" href="#">
+                                <img src="{% static 'images/h-cam.jpg' %}" alt="">
+                                <span>Students Profile</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-xs-12">
+                        <div class="ed-course-in">
+                            <a class="course-overlay" href="#">
+                                <img src="{% static 'images/h-res.jpg' %}" alt="">
+                                <span>Research & Publication</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-xs-12">
+                        <div class="ed-course-in">
+                            <a class="course-overlay" href="#">
+                                <img src="{% static 'images/h-about1.jpg' %}" alt="">
+                                <span>Trending Subjects</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-xs-12">
+                        <div class="ed-course-in">
+                            <a class="course-overlay" href="#">
+                                <img src="{% static 'images/h-adm.jpg' %}" alt="">
+                                <span>Admission Time Line</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-xs-12">
+                        <div class="ed-course-in">
+                            <a class="course-overlay" href="#">
+                                <img src="{% static 'images/h-cam1.jpg' %}" alt="">
+                                <span>Seminars</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4 col-xs-12">
+                        <div class="ed-course-in">
+                            <a class="course-overlay" href="">
+                                <img src="{% static 'images/h-res1.jpg' %}" alt="">
+                                <span>Admission Expo</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+{% endblock %}
+</body>
+
+</html>

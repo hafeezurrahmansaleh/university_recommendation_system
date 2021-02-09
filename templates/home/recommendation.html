@@ -1,0 +1,143 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block body %}
+    <!--SECTION START-->
+    <section class="c-all h-quote" >
+        <div class="container" >
+            <div class="col-md-4 col-sm-12 col-xs-12" >
+                <div class="layer" >
+                    <div class="all-title quote-title qu-new" >
+                        <h2 >University recommendation</h2 >
+                        <p >This system classifies the study area from the analysis of students' dataset related to the
+                            academic field. I have used the required dataset containing students' profiles and their application
+                            was accepted or rejected. Based on this information I have used the KNN algorithm for
+                            recommending top K universities from N similar users. </p >
+                        <p >From this recommendation students will
+                            be able to enhance the possibility of getting admission.</p >
+                        {#                        <p class="help-line" >Send Your Feedback <span >hafeezurrahman.saleh@gmail.com</span ></p > #}
+                        <span class="help-arrow pulse" ><i
+                                class="fa fa-angle-right" aria-hidden="true" ></i ></span >
+                    </div >
+                </div >
+            </div >
+            <div class="col-md-8 col-sm-12 col-xs-12" >
+                <div class="n-form-com admiss-form" >
+                    <div class="col s12" >
+{#                        <form class="form-horizontal" >#}
+{#                            <div class="form-group" >#}
+{#                                <div class="file-field input-field" >#}
+{#                                    <div class="btn admin-upload-btn" >#}
+{#                                        <span >Upload Your Image</span >#}
+{#                                        <input type="file" >#}
+{#                                    </div >#}
+{#                                    <div class="file-path-wrapper" style="margin-right: 15px !important;" >#}
+{#                                        <input class="file-path validate" type="text" placeholder="Selecet Your Image" >#}
+{#                                    </div >#}
+{#                                </div >#}
+{#                            </div >#}
+{#                        </form >#}
+                        <form class="form-horizontal" action="/university-list/" method="post" >{% csrf_token %}
+
+                            {#                            <div class="form-group" >#}
+                            {#                                <label class="control-label col-sm-3" >Full Name:</label >#}
+                            {#                                <div class="col-sm-9" >#}
+                            {#                                    <input type="text" name="name" class="form-control" placeholder="Enter your name" required >#}
+                            {#                                </div >#}
+                            {#                            </div >#}
+                            {#                            <div class="form-group" >#}
+                            {#                                <label class="control-label col-sm-3" >Email:</label >#}
+                            {#                                <div class="col-sm-9" >#}
+                            {#                                    <input type="text" name="email" class="form-control" placeholder="Enter your email" required >#}
+                            {#                                </div >#}
+                            {#                            </div >#}
+                            <div class="form-group" >
+                                <label class="control-label col-sm-3" >Major:</label >
+                                <div class="col-sm-9" >
+                                    <select name="major" >
+                                        <option >-- Select Your Major --</option >
+                                        <option >Software Engineering</option >
+                                        <option >Computer Science and Engineering</option >
+                                        <option >Fashion Technology</option >
+                                        <option >Marine Engineering</option >
+                                        <option >Building, Construction Management</option >
+                                        <option >Textile Engineering</option >
+                                        <option >Business Administration</option >
+                                        <option >Chemical Engineering</option >
+                                    </select >
+                                </div >
+                            </div >
+                            <div class="form-group" >
+                                <label class="control-label col-sm-3" >University Rating:</label >
+                                <div class="col-sm-9" >
+                                    <input type="number" step="any" name="uni_rating" class="form-control"
+                                           placeholder="Rating of preferable varsity (out of 5)" >
+                                </div >
+                            </div >
+                            <div class="form-group" >
+                                <label class="control-label col-sm-3" >TOEFL Score:</label >
+                                <div class="col-sm-9" >
+                                    <input type="number" step="any" name="TOEFL" class="form-control" placeholder="Enter your score in TOEFL" >
+                                </div >
+                            </div >
+                            <div class="form-group" >
+                                <label class="control-label col-sm-3" >Publication:</label >
+                                <div class="col-sm-9" >
+                                    <input type="number" step="any" name="research" class="form-control" placeholder="Enter 1 if yes, else 0" >
+                                </div >
+                            </div >
+                            <div class="form-group" >
+                                <label class="control-label col-sm-3" >CGPA:</label >
+                                <div class="col-sm-9" >
+                                    <div class="col-sm-6 margin_left_0" >
+                                        <input  type="number" class="form-control" name="CGPA" placeholder="Enter your CGPA "
+                                               required >
+                                    </div >
+                                    <div class="col-sm-6 margin_right_0" >
+                                        <input  type="text" class="form-control" name="max_cgpa" placeholder="Out of.."
+                                               required >
+                                    </div >
+                                </div >
+                            </div >
+                            <div class="form-group" >
+                                <label class="control-label col-sm-3" >SOP & LOR:</label >
+                                <div class="col-sm-9" >
+                                    <div class="col-sm-6 margin_left_0" >
+                                        <input type="number" step="any" name="SOP" class="form-control" placeholder="Rating of SOP (0-5)" >
+                                    </div >
+                                    <div class="col-sm-6 margin_right_0" >
+                                        <input type="number" step="any" name="LOR" class="form-control" placeholder="Rating of LOR (0-5)" >
+                                    </div >
+                                </div >
+                            </div >
+                            <div class="form-group" >
+                                <label class="control-label col-sm-3" >GRE Scores:</label >
+                                <div class="col-sm-9" >
+                                    <div class="col-sm-4 margin_left_0" >
+                                        <input type="number" step="any" class="form-control" name="GREq" placeholder="Quantitative"
+                                               required >
+                                    </div >
+                                    <div class="col-sm-4" >
+                                        <input type="number" step="any" class="form-control" name="GREv" placeholder="Verbal" required >
+                                    </div >
+                                    <div class="col-sm-4 margin_right_0" >
+                                        <input type="number" step="any" name="GREa" class="form-control" placeholder="Analytical" required >
+                                    </div >
+                                </div >
+                            </div >
+                            <div class="form-group mar-bot-0" >
+                                <div class="col-sm-offset-3 col-sm-9" >
+                                    <i class="waves-effect waves-light light-btn waves-input-wrapper" style="" ><input type="submit"
+                                                                                                                       value="GET RECOMMENDATION"
+                                                                                                                       class="waves-button-input" ></i >
+                                </div >
+                            </div >
+                        </form >
+                    </div >
+                </div >
+            </div >
+        </div >
+    </section >
+    <!--SECTION END-->
+
+{% endblock %}

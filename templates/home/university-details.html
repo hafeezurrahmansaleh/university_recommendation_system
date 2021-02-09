@@ -1,0 +1,204 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block body %}
+
+    <!--SECTION START-->
+    <section >
+        <div class="container com-sp pad-bot-70 pg-inn" >
+            <div class="row" >
+                <div class="cor" >
+                    <div class="col-md-3" >
+                        <div class="cor-side-com" >
+                            <div class="" >
+                                <div class="de-left-tit" >
+                                    <h4 >Upcoming Event</h4 >
+                                </div >
+                            </div >
+                            <div class="ho-event" >
+                                <ul >
+                                    <li >
+                                        <div class="ho-ev-link ho-ev-link-full" >
+                                            <a href="#" >
+                                                <h4 >Workshop Application Process</h4 >
+                                            </a >
+                                            <p >Will be happen via zoom meeting.</p >
+                                            <span >9:15 am – 5:00 pm</span >
+                                        </div >
+                                    </li >
+                                    <li >
+                                        <div class="ho-ev-link ho-ev-link-full" >
+                                            <a href="#" >
+                                                <h4 >Workshop IELTS</h4 >
+                                            </a >
+                                            <p >Will be happen via zoom meeting.</p >
+                                            <span >9:15 am – 5:00 pm</span >
+                                        </div >
+                                    </li >
+                                    <li >
+                                        <div class="ho-ev-link ho-ev-link-full" >
+                                            <a href="#" >
+                                                <h4 >Seminar on Scholarships in USA</h4 >
+                                            </a >
+                                            <p >Will be happen via zoom meeting.</p >
+                                            <span >9:15 am – 5:00 pm</span >
+                                        </div >
+                                    </li >
+                                    <li >
+                                        <div class="ho-ev-link ho-ev-link-full" >
+                                            <a href="#" >
+                                                <h4 >Open Discussion</h4 >
+                                            </a >
+                                            <p >ill be happen via zoom meeting..</p >
+                                            <span >9:15 am – 5:00 pm</span >
+                                        </div >
+                                    </li >
+                                </ul >
+                            </div >
+                        </div >
+                    </div >
+                    <div class="col-md-6" >
+                        <div class="cor-mid-img" >
+                            <img src="{% static 'images/u1.jpg' %}" alt="" >
+                        </div >
+                        <div class="cor-con-mid" >
+                            <div class="cor-p1" >
+                                <h2 >{{ uni_details.u_name }}</h2 >
+                                <span >Category:
+                                    {% for tag in uni_details.tags.all %}
+                                        {{ tag.tag }}/
+                                    {% endfor %}
+                                </span >
+                            </div >
+                            <div class="cor-p4" >
+                                <h3 >About University:</h3 >
+                                <p >
+                                    {{ uni_details.short_details }}
+                                </p >
+                            </div >
+                            <div class="cor-p5" >
+                                <h3 >Admission</h3 >
+                                <ul class="nav nav-tabs" >
+                                    <li class="active" ><a data-toggle="tab" href="#home" >
+                                        <img src="{% static 'images/icon/cor4..png' %}" alt="" > <span >Requirements</span ></a >
+                                    </li >
+                                    <li ><a data-toggle="tab" href="#menu1" ><img src="{% static 'images/icon/cor3..png' %}"
+                                                                                  alt="" ><span >Fees</span ></a ></li >
+                                    <li ><a data-toggle="tab" href="#menu2" ><img src="{% static 'images/icon/cor1..png' %}" alt="" ><span >Student Profile</span ></a >
+                                    </li >
+                                    <li ><a data-toggle="tab" href="#menu2" ><img src="{% static 'images/icon/cor5..png' %}" alt="" ><span >How to Apply</span ></a >
+                                    </li >
+                                </ul >
+                                <div class="tab-content" >
+                                    <div id="home" class="tab-pane fade in active" >
+                                        <h4 >Description</h4 >
+                                        <p >Massachusetts Institute of Technology is a private research university in Cambridge, Massachusetts. The
+                                            institute is a land-grant, sea-grant, and space-grant university, with an urban campus that extends more
+                                            than a mile alongside the Charles River.</p >
+                                        <p > The true and only practicable object of a polytechnic school is, as I conceive, the teaching, not of the
+                                             minute details and manipulations of the arts, which can be done only in the workshop, but the inculcation
+                                             of those scientific principles which form the basis and explanation of them, and along with this, a full
+                                             and methodical review of all their leading processes and operations in connection with physical
+                                             laws.</p >
+                                    </div >
+                                    <div id="menu1" class="tab-pane fade" >
+                                        <h4 >Fees</h4 >
+                                        <p >
+                                            MIT is aware of the substantial expenses that graduate education at MIT represents, and we want to give
+                                            applicants a realistic assessment of the costs involved. Living costs in the Cambridge-Boston area are
+                                            among the highest in the United States. Graduate students with spouses and/or dependents may need to
+                                            consider additional members on their health care plan; child care expenses; and higher housing costs for a
+                                            larger amount of living area. The Institute cannot assume financial responsibility for its students beyond
+                                            any funding offered at the time of admission; see more information on Costs & Funding.
+                                            Because the first few months in the United States usually demand more financial outlay than any other
+                                            period, students should plan to arrive with enough money to meet substantial initial expenses, such as
+                                            travel to Cambridge from the port of arrival; travel insurance; temporary accommodations in hotels, if
+                                            necessary; meals in restaurants; advance payment of rent; purchase of furnishings; and deposits for
+                                            electricity and telephone services.
+                                            Below is an outline of expenses that graduate students can expect when planning to attend MIT. All amounts
+                                            provided are estimates and are based on a 9-month academic year from September to May. Actual expenses may
+                                            vary.
+                                            9-Month Academic Year Expenses (2019 – 2020)
+                                            Tuition1: $53,450
+                                            Student activity fee: $340 annually ($170 per term)
+                                            Housing (on-campus)2: $8,253 - $18,135
+                                            Meals (on-campus)3: $1,770 - $5,960
+                                            Extended health insurance plan: $3,269
+                                            Additional expenses to consider may include:
+                                            Books and supplies: $820
+                                            Personal expenses (household items other than food, clothing, leisure): $2,160
+                                            Total estimate: $70,062 - $84,134
+                                            1Tuition rates for the MIT Sloan School of Management and for other programs may vary.
+                                            2Accommodations vary from 3-bedroom shared suite to 2-bedroom private apartment. See also MIT Off Campus
+                                            Housing.
+                                            3Meal plans vary from basic 10 meals/week to full 19 meals/week
+                                            3-Month Summer Term Expenses
+                                            In most doctoral-level programs, students are required to continue research studies over the summer. There
+                                            is no additional tuition cost for most graduate students due to the Summer Tuition Subsidy. Students who
+                                            choose to enroll in additional summer classes may be responsible for additional tuition costs.
+                                        </p >
+                                    </div >
+                                    <div id="menu2" class="tab-pane fade" >
+                                        <h4 >Profile</h4 >
+                                        <p >The MIT application process is dominated by two application platforms. The MIT Sloan School of Management
+                                            has one unified online portal that services both master- and doctoral-level management programs. Other
+                                            programs at MIT—including all departments in the sciences, engineering, humanities, architecture, and
+                                            urban studies and planning —utilize an online application system referred to as “GradApply.”
+                                            The GradApply online application system is unlike any other graduate application system, largely because
+                                            we built it. In the spirit of true MIT innovation, we developed our own online application system to meet
+                                            the demands of all our graduate programs. By creating our own application system, we efficiently
+                                            streamlined the application process in the hope of providing prospective students with the best possible
+                                            experience.
+                                            Timeline
+                                            No two departments at MIT are exactly alike; as such, there is no single application deadline or review
+                                            period that fits all departments. However, there are general timeframes that most departments follow, with
+                                            the exception of fields related to business and management.
+                                            September – Online applications become available
+                                            December/January – Deadlines to submit application approach
+                                            January/February/March – Departments review applications, conduct interviews as needed, and make
+                                            application decisions
+                                            April 15 – Reply deadline utilized by all departments that offer financial support in coordination with
+                                            the Council of Graduate Schools April 15 Resolution.</p >
+                                    </div >
+                                </div >
+                            </div >
+                        </div >
+                    </div >
+                    <div class="col-md-3" >
+                        <div class="cor-side-com" >
+                            <div class="de-left-tit" >
+                                <h4 >Available Jobs</h4 >
+                            </div >
+                            <div class="ho-ev-latest ho-ev-latest-bg-2" >
+                                <div class="ho-lat-ev" >
+                                    <a href="#" >
+                                        <h4 >Software Engineer</h4 >
+                                        <p >Need 2 years of experience with mid level skills.</p >
+                                    </a >
+                                </div >
+                            </div >
+                            <div class="ho-ev-latest in-ev-latest-bg-1" >
+                                <div class="ho-lat-ev" >
+                                    <a href="#" >
+                                        <h4 >Data Analyst</h4 >
+                                        <p >Part time work from home as a data analyst.</p >
+                                    </a >
+                                </div >
+                            </div >
+                            <div class="ho-ev-latest in-ev-latest-bg-1" >
+                                <div class="ho-lat-ev" >
+                                    <a href="#" >
+                                        <h4 >Customer Support</h4 >
+                                        <p >Customer support manager (8 hours per day)</p >
+                                    </a >
+                                </div >
+                            </div >
+                        </div >
+                    </div >
+                </div >
+            </div >
+        </div >
+    </section >
+    <!--SECTION END-->
+
+{% endblock %}

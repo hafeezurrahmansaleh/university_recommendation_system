@@ -1,0 +1,70 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block body %}
+    <div class="ed-res-bg" >
+        <section class="pop-cour ed-res-bg" >
+            <div class="container com-sp pad-bot-70" >
+                <div class="row" >
+                    <div><h2 style="text-align: center">Your chance of getting admission is: {{ chance }}% </h2></div>
+                    <br>
+                    <div class="con-title" >
+                        <h2 >Recommended <span >Universities</span ></h2 >
+                        <p >These are the top recommended universities for you that matches your profile the most</p >
+                        <br>
+                        <br><p>{% for i in uni_list %}
+                        {{ forloop.counter }}. <b>{{ i }}</b><br>
+                        {% endfor %}
+                    </p>
+                    </div >
+                </div >
+                <div class="row" >
+                    <div class="col-md-1" ></div >
+                    <div class="col-md-10" >
+                        <div >
+                            <!--POPULAR COURSES-->
+                            {% for uni in universities %}
+                                <div class="home-top-cour" >
+                                    <!--POPULAR COURSES IMAGE-->
+                                    <div class="col-md-3" ><img src="{% static 'images/u1.jpg' %}" alt="" ></div >
+                                    <!--POPULAR COURSES: CONTENT-->
+                                    <div class="col-md-9 home-top-cour-desc" >
+                                        <div class="col-md-9" >
+                                            <a href="course-details.html" >
+                                                <h3 >{{ uni.u_name }}</h3 >
+                                            </a >
+                                            <h4 >
+                                                Technology/ Computer Science/ Top Ranked/
+                                            </h4 >
+                                            <p >Massachusetts Institute of Technology is a private research university in Cambridge, Massachusetts.
+                                                The institute is a land-grant, sea-grant, and space-grant university, with an urban campus that
+                                                extends more than a mile alongside the Charles River.</p >
+                                        </div >
+                                        <div class="col-md-3" >
+                                            <span class="home-top-cour-rat" ><i class="fa fa-trophy"
+                                                                                aria-hidden="true" ></i > {{ forloop.counter }}</span >
+                                            <div class="ed-flag" style="padding-top: 20%" ><img src="{% static 'images/icon/flag-1.png' %}" alt="" >
+                                            </div >
+                                        </div >
+                                        <div class="hom-list-share" >
+                                            <ul >
+                                                <li ><a href="/university-details/{{ uni.u_name }}" ><i class="fa fa-university"
+                                                                                                        aria-hidden="true" ></i > Details Information</a >
+                                                </li >
+                                                <li ><a href="#" ><i class="fa fa-eye" aria-hidden="true" ></i >Admission is Open</a >
+                                                </li >
+                                                <li ><a href="#" ><i class="fa fa-share-alt" aria-hidden="true" ></i > Apply: Sept - Oct</a >
+                                                </li >
+                                            </ul >
+                                        </div >
+                                    </div >
+                                </div >
+                            {% endfor %}
+                        </div >
+                    </div >
+                    <div class="col-md-1" ></div >
+                </div >
+            </div >
+        </section >
+    </div >
+{% endblock %}

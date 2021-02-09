@@ -1,0 +1,895 @@
+,major,greQ,greV,greA,CGPA,univName
+49512,52,152,162,3.5,0.901,SUNY Buffalo
+49513,76,130,168.0851064,3,0.82358,SUNY Buffalo
+49514,125,39,50,4,0.62,SUNY Buffalo
+49515,66,134.0425532,170.212766,3.5,0.87,SUNY Buffalo
+49516,37,155,165,4,0.841,SUNY Buffalo
+49517,152,148,159,3.5,0.77,SUNY Buffalo
+49586,52,154,164,4,0.715,Rutgers University New Brunswick/Piscataway
+49587,72,130,165.9574468,3.5,0.79,Rutgers University New Brunswick/Piscataway
+49588,198,144.6808511,146.8085106,4.5,0.683,Rutgers University New Brunswick/Piscataway
+49589,52,160,167,4.5,0.73,Rutgers University New Brunswick/Piscataway
+49590,52,130,163.8297872,4,0.7567,Rutgers University New Brunswick/Piscataway
+49591,84,154,162,3.5,0.831,Rutgers University New Brunswick/Piscataway
+49592,75,142.5531915,170.212766,3,0.78,Rutgers University New Brunswick/Piscataway
+49593,52,130,168.0851064,3,0.74,Rutgers University New Brunswick/Piscataway
+49594,72,160,160,4,0.89,Rutgers University New Brunswick/Piscataway
+49595,45,158,168,3,0.855,Rutgers University New Brunswick/Piscataway
+49596,45,156,164,4,0.7,Rutgers University New Brunswick/Piscataway
+49597,52,130,168.0851064,4,0.81,Rutgers University New Brunswick/Piscataway
+49598,76,130,161.7021277,4,0.718,Rutgers University New Brunswick/Piscataway
+49599,152,148,159,3.5,0.77,Rutgers University New Brunswick/Piscataway
+49620,75,130,148.9361702,4,0.7,Purdue University
+49621,37,130,163.8297872,3.5,0.69,Purdue University
+49622,202,33,50,6,1,Purdue University
+49623,152,146.8085106,170.212766,6,0.74,Purdue University
+49624,46,161.7021277,170.212766,4,0.79,Purdue University
+49625,84,159,170,4,0.86,Purdue University
+49626,75,150,159,3.5,0.8,Purdue University
+49627,84,130,165.9574468,4,0.88,Purdue University
+49628,37,155,165,4,0.841,Purdue University
+49629,52,130,170.212766,5,0.73,Purdue University
+49688,52,153,161,3.5,0.845,Ohio State University Columbus
+49689,40,154,163,3.5,0.758,Ohio State University Columbus
+49690,52,148.9361702,159.5744681,4,0.79,Ohio State University Columbus
+49691,52,130,168.0851064,4,0.811,Ohio State University Columbus
+49692,52,144.6808511,151.0638298,3.5,0.7,Ohio State University Columbus
+49693,72,130,165.9574468,3.5,0.79,Ohio State University Columbus
+49694,52,150,161,3,0.8307,Ohio State University Columbus
+49695,102,130,153.1914894,3.5,0.68,Ohio State University Columbus
+49696,52,158,165,4.5,0.927,Ohio State University Columbus
+49697,52,130,168.0851064,3,0.805,Ohio State University Columbus
+49698,52,156,164,3.5,0.75,Ohio State University Columbus
+49699,52,157.4468085,168.0851064,4.5,0.75,Ohio State University Columbus
+49700,52,151,160,4,0.81,Ohio State University Columbus
+49701,52,130,163.8297872,4,0.7567,Ohio State University Columbus
+49702,52,154,161,3,0.85,Ohio State University Columbus
+49703,72,130,168.0851064,3.5,0.81,Ohio State University Columbus
+49704,52,159,164,4,0.8,Ohio State University Columbus
+49705,52,130,168.0851064,3,0.74,Ohio State University Columbus
+49706,52,160,165,4.5,0.846,Ohio State University Columbus
+49707,52,152,162,4,0.6,Ohio State University Columbus
+49708,106,161,162,4,0.887,Ohio State University Columbus
+49709,52,152,162,3.5,0.901,Ohio State University Columbus
+49745,112,130,157.4468085,5,0.67,Northeastern University
+49746,52,130,157.4468085,3.5,0.66,Northeastern University
+49747,52,153,157,4,0.683,Northeastern University
+49748,52,130,161.7021277,4,0.78,Northeastern University
+49749,180,146,160,3.5,0.802,Northeastern University
+49750,52,148,159,3,0.701,Northeastern University
+49751,52,130,170.212766,3.5,0.73,Northeastern University
+49752,52,151,159,3,0.8,Northeastern University
+49753,52,150,161,4,0.713,Northeastern University
+49754,18,130,170.212766,4,0.75,Northeastern University
+49755,11,139,156,3,0.74,Northeastern University
+49756,0,148,167,4,0.71,Northeastern University
+49757,52,150,150,3.5,0.875,Northeastern University
+49758,52,155,163,4,0.78,Northeastern University
+49759,52,130,151.0638298,3,0.665,Northeastern University
+49760,52,144.6808511,151.0638298,3.5,0.7,Northeastern University
+49761,52,130,146.8085106,0,0,Northeastern University
+49762,125,130,157.4468085,3.5,0.65,Northeastern University
+49763,52,130,146.8085106,4,0.6876,Northeastern University
+49764,52,145,163,3,0.835,Northeastern University
+49765,126,146,159,3.5,0.65,Northeastern University
+49766,52,155,164,0,0.72,Northeastern University
+49767,52,151,165,4,0.73,Northeastern University
+49768,52,154,157,3,0.704,Northeastern University
+49769,52,150,156,3.5,0.7421,Northeastern University
+49770,52,158,165,4.5,0.927,Northeastern University
+49771,52,130,163.8297872,4,0.735,Northeastern University
+49772,52,130,163.8297872,4,0.67,Northeastern University
+49773,52,153,157,4,0.66,Northeastern University
+49774,52,130,155.3191489,3.5,0.67,Northeastern University
+49775,52,152,166,3,0.63,Northeastern University
+49776,52,156,164,3.5,0.75,Northeastern University
+49777,52,153,158,3.5,0.7,Northeastern University
+49778,52,130,146.8085106,3,0.74,Northeastern University
+49779,81,130,155.3191489,3.5,0.772,Northeastern University
+49780,52,152,159,3,0.678,Northeastern University
+49781,40,130,159.5744681,3.5,0.7066,Northeastern University
+49782,113,148,158,0,0.74,Northeastern University
+49783,52,130,155.3191489,3,0.662,Northeastern University
+49784,45,130,161.7021277,4.5,0.743,Northeastern University
+49785,72,130,159.5744681,4,0.71,Northeastern University
+49786,45,136.1702128,168.0851064,0,0.76,Northeastern University
+49787,112,145,158,3,0.56,Northeastern University
+49788,52,152,159,3.5,0.82,Northeastern University
+49789,52,153,161,3,0.8333,Northeastern University
+49790,52,165,157,3.5,0.76,Northeastern University
+49791,52,158,160,0,0.8107,Northeastern University
+49792,180,130,170.212766,4,0.722,Northeastern University
+49793,52,151,157,4,0.752,Northeastern University
+49794,52,152,161,4.5,0.76,Northeastern University
+49795,52,140.4255319,163.8297872,4,0.71,Northeastern University
+49796,52,130,165.9574468,4,0.752,Northeastern University
+49797,125,152,152,3,0.7,Northeastern University
+49798,52,130,157.4468085,4,0.665,Northeastern University
+49799,52,150,162,3,0.73,Northeastern University
+49800,125,144,160,3,0.7775,Northeastern University
+49801,40,154,157,3,0.7561,Northeastern University
+49802,125,149,157,4,0.685,Northeastern University
+49803,84,159,158,4,0.63,Northeastern University
+49804,52,130,148.9361702,3,0.715,Northeastern University
+49805,52,146,159,3.5,0.74,Northeastern University
+49806,26,147,168,3.5,0.67,Northeastern University
+49807,52,130,159.5744681,3,0.75,Northeastern University
+49808,45,149,165,3,0.75,Northeastern University
+49809,52,154,156,3.5,0.7466,Northeastern University
+49810,52,157,158,3.5,0.68,Northeastern University
+49811,52,151,151,3.5,0.688,Northeastern University
+49812,52,149,158,3.5,0.743,Northeastern University
+49813,52,152,167,4,0.815,Northeastern University
+49814,52,163.8297872,163.8297872,3.5,0.78,Northeastern University
+49815,45,151,156,3.5,0.67,Northeastern University
+49816,45,156,164,4,0.7,Northeastern University
+49817,34,155.3191489,168.0851064,5,0.79,Northeastern University
+49818,52,130,168.0851064,3.5,0.743,Northeastern University
+49819,52,146,155,3.5,0.705,Northeastern University
+49820,52,150,157,3.5,0.7347,Northeastern University
+49821,125,145,167,3,0.65,Northeastern University
+49822,84,130,148.9361702,4.5,0.66,Northeastern University
+49823,22,130,170.212766,5,0.7,Northeastern University
+49824,46,130,165.9574468,3,0.79,Northeastern University
+49825,34,155.3191489,168.0851064,5,0.79,Northeastern University
+49860,45,151.0638298,168.0851064,4,0.825,North Carolina State University
+49861,84,136.1702128,170.212766,4,0.77,North Carolina State University
+49862,37,130,163.8297872,3.5,0.69,North Carolina State University
+49863,72,130,163.8297872,1230,0.824,North Carolina State University
+49864,52,138.2978723,165.9574468,4,0.77,North Carolina State University
+49865,84,130,170.212766,4.5,0.75,North Carolina State University
+49866,52,148.9361702,159.5744681,4,0.79,North Carolina State University
+49867,52,151,160,3,0.818,North Carolina State University
+49868,52,154,168,4,0.7,North Carolina State University
+49869,45,130,161.7021277,4,0.81,North Carolina State University
+49870,76,154,168,3.5,0.85,North Carolina State University
+49871,84,131.9148936,170.212766,4,0.805,North Carolina State University
+49872,75,134.0425532,170.212766,4.5,0.848,North Carolina State University
+49873,52,154,163,3,0.78,North Carolina State University
+49874,72,145,162,4,0.924,North Carolina State University
+49875,52,153,160,4,0.896,North Carolina State University
+49876,52,152,163,3.5,0.72,North Carolina State University
+49878,84,131.9148936,168.0851064,4,0.884,North Carolina State University
+49879,84,153,162,3.5,0.83,North Carolina State University
+49880,52,130,165.9574468,4,0.77,North Carolina State University
+49881,52,162,161,4,0.923,North Carolina State University
+49882,72,130,165.9574468,3.5,0.79,North Carolina State University
+49883,52,150,161,3,0.8307,North Carolina State University
+49884,72,130,170.212766,4.5,0.8044,North Carolina State University
+49885,52,158,165,4.5,0.927,North Carolina State University
+49886,72,149,161,3.5,0.84,North Carolina State University
+49887,52,161,170,4,0.68,North Carolina State University
+49888,75,153,168,0,0.8,North Carolina State University
+49889,52,156,164,3.5,0.75,North Carolina State University
+49890,52,130,170.212766,4,0.79,North Carolina State University
+49891,52,151,160,4,0.81,North Carolina State University
+49892,52,155,166,3.5,0.74,North Carolina State University
+49893,45,136.1702128,168.0851064,0,0.76,North Carolina State University
+49894,72,156,165,4,0.76,North Carolina State University
+49895,106,152,162,4.5,0.897,North Carolina State University
+49896,72,142.5531915,170.212766,4,0.72,North Carolina State University
+49897,52,151,165,4.5,0.79,North Carolina State University
+49898,52,130,163.8297872,4,0.7567,North Carolina State University
+49899,52,157,162,4,0.7933,North Carolina State University
+49900,52,152,159,3.5,0.82,North Carolina State University
+49901,52,130,170.212766,3,0.82,North Carolina State University
+49902,52,159,162,4,0.79,North Carolina State University
+49903,52,158,160,0,0.8107,North Carolina State University
+49904,180,130,170.212766,4,0.722,North Carolina State University
+49905,52,156,168,5,0.866,North Carolina State University
+49906,52,160,164,4,0.75,North Carolina State University
+49907,84,130,168.0851064,3.5,0.89,North Carolina State University
+49908,52,158,167,4.5,0.746,North Carolina State University
+49909,45,130,170.212766,3.5,0.826,North Carolina State University
+49910,52,130,165.9574468,4,0.752,North Carolina State University
+49911,52,130,165.9574468,4,0.798,North Carolina State University
+49912,37,130,163.8297872,4,0.746,North Carolina State University
+49913,72,130,170.212766,4,0.762,North Carolina State University
+49914,72,130,168.0851064,4,0.78,North Carolina State University
+49915,46,161.7021277,170.212766,4,0.79,North Carolina State University
+49916,84,130,170.212766,4,0.815,North Carolina State University
+49917,84,158,163,3.5,0.82,North Carolina State University
+49918,52,130,170.212766,0,0.82,North Carolina State University
+49919,72,134.0425532,170.212766,4,0.77,North Carolina State University
+49920,84,138.2978723,168.0851064,3,0.77,North Carolina State University
+49921,84,159,170,4,0.86,North Carolina State University
+49922,52,150,165,4.5,0.828,North Carolina State University
+49923,52,156,169,3.5,0.7,North Carolina State University
+49924,52,130,157.4468085,4,0.76,North Carolina State University
+49925,152,159,163,3,0.859,North Carolina State University
+49926,84,148.9361702,161.7021277,0,0.85,North Carolina State University
+49927,72,130,170.212766,4.5,0.75,North Carolina State University
+49928,52,134.0425532,159.5744681,3,0.8005,North Carolina State University
+49929,22,153,164,4.5,0.826,North Carolina State University
+49930,45,130,159.5744681,4.5,0.8275,North Carolina State University
+49931,52,130,153.1914894,3.5,0.82,North Carolina State University
+49932,52,155.3191489,168.0851064,3.5,0.825,North Carolina State University
+49933,52,149,165,3.5,0.705,North Carolina State University
+49934,45,157,163,5,0.7374,North Carolina State University
+49935,52,130,168.0851064,4,0.74,North Carolina State University
+49936,52,163.8297872,163.8297872,3.5,0.78,North Carolina State University
+49937,52,134.0425532,168.0851064,3.5,0.847,North Carolina State University
+49938,43,160,167,4.5,0.74,North Carolina State University
+49939,52,130,168.0851064,3.5,0.743,North Carolina State University
+49940,52,130,159.5744681,3.5,0.7932,North Carolina State University
+49941,72,130,153.1914894,4,0.79,North Carolina State University
+49942,106,151,170,4,0.8,North Carolina State University
+49943,66,134.0425532,170.212766,3.5,0.87,North Carolina State University
+49944,45,130,170.212766,5,0.83,North Carolina State University
+49945,52,152,161,3.5,0.825,North Carolina State University
+49946,52,161,168,4,0.7108,North Carolina State University
+50075,52,151,159,3,0.8,New York University
+50076,52,130,168.0851064,4,0.745,New York University
+50077,125,130,157.4468085,3.5,0.65,New York University
+50078,52,130,146.8085106,4,0.6876,New York University
+50079,28,142.5531915,155.3191489,4.5,0.72,New York University
+50080,25,148,164,4,0.63,New York University
+50081,52,130,163.8297872,3.5,0.68,New York University
+50082,52,130,170.212766,3,0.79,New York University
+50083,52,161,166,3,0.65,New York University
+50084,125,130,170.212766,0,0.8,New York University
+50085,52,134.0425532,157.4468085,3.5,0.64,New York University
+50095,52,149,150,3.5,0.625,New Jersey Institute of Technology
+50096,180,146,160,3.5,0.802,New Jersey Institute of Technology
+50097,72,130,165.9574468,4,0.61,New Jersey Institute of Technology
+50098,52,144,152,3,0.78,New Jersey Institute of Technology
+50099,106,140,154,3,0.0818,New Jersey Institute of Technology
+50100,52,130,151.0638298,3,0.6069,New Jersey Institute of Technology
+50101,52,140.4255319,153.1914894,3.5,0.6,New Jersey Institute of Technology
+50102,72,130,157.4468085,3.5,0.73,New Jersey Institute of Technology
+50103,52,130,153.1914894,4,0,New Jersey Institute of Technology
+50104,72,145,155,4,0.65,New Jersey Institute of Technology
+50105,52,135,154,2,0.72,New Jersey Institute of Technology
+50106,152,145,159,3.5,0.64,New Jersey Institute of Technology
+50107,72,130,131.9148936,3,0.7,New Jersey Institute of Technology
+50108,52,156,165,3.5,0,New Jersey Institute of Technology
+50109,52,144,160,3,0.7421,New Jersey Institute of Technology
+50110,84,130,159.5744681,4,0.695,New Jersey Institute of Technology
+50111,45,130,157.4468085,4,0,New Jersey Institute of Technology
+50112,24,130,134.0425532,3.5,0.56,New Jersey Institute of Technology
+50113,40,130,168.0851064,4,0.69,New Jersey Institute of Technology
+50114,125,155,150,3.5,0.62,New Jersey Institute of Technology
+50115,52,130,142.5531915,0,0.62,New Jersey Institute of Technology
+50116,52,161.7021277,153.1914894,4.5,0.76,New Jersey Institute of Technology
+50117,52,130,157.4468085,4,0.595,New Jersey Institute of Technology
+50118,11,130,168.0851064,4.5,0.79,New Jersey Institute of Technology
+50119,52,144,151,3.5,0.78,New Jersey Institute of Technology
+50120,152,148,147,3.5,0,New Jersey Institute of Technology
+50121,45,153,156,3.5,0.67,New Jersey Institute of Technology
+50122,71,147,157,3,0.826,New Jersey Institute of Technology
+50126,52,155.3191489,170.212766,5,0.812,Johns Hopkins University
+50127,112,130,157.4468085,5,0.67,Johns Hopkins University
+50128,45,134.0425532,157.4468085,4.5,0.64,Johns Hopkins University
+50129,59,151,162,4,0.701,Johns Hopkins University
+50130,112,145,158,3,0.56,Johns Hopkins University
+50131,152,146.8085106,170.212766,6,0.74,Johns Hopkins University
+50132,52,130,170.212766,4.5,0.79,Johns Hopkins University
+50133,52,163,165,5,0.737,Johns Hopkins University
+50138,180,130,165.9574468,3.5,0.82,Georgia Institute of Technology
+50139,45,151.0638298,168.0851064,4,0.825,Georgia Institute of Technology
+50140,52,148.9361702,159.5744681,4,0.79,Georgia Institute of Technology
+50141,52,130,170.212766,4.5,0.73,Georgia Institute of Technology
+50142,106,146.8085106,170.212766,3.5,0.885,Georgia Institute of Technology
+50143,52,157,161,4.5,0.881,Georgia Institute of Technology
+50144,28,142.5531915,155.3191489,4.5,0.72,Georgia Institute of Technology
+50145,102,130,153.1914894,3.5,0.68,Georgia Institute of Technology
+50146,52,130,170.212766,4.5,0.79,Georgia Institute of Technology
+50147,45,130,170.212766,3.5,0.826,Georgia Institute of Technology
+50148,72,148.9361702,170.212766,3,0.82,Georgia Institute of Technology
+50149,11,149,155,3.5,0.71,Georgia Institute of Technology
+50150,72,134.0425532,170.212766,4,0.77,Georgia Institute of Technology
+50151,72,146.8085106,159.5744681,4.5,0.877,Georgia Institute of Technology
+50152,11,130,168.0851064,4.5,0.79,Georgia Institute of Technology
+50153,45,148,153,3.5,0.7207,Georgia Institute of Technology
+50154,52,155.3191489,168.0851064,3.5,0.825,Georgia Institute of Technology
+50155,72,146.8085106,170.212766,5,0.985,Georgia Institute of Technology
+50156,2,130,161.7021277,3.5,0.67,Georgia Institute of Technology
+50157,45,157,163,5,0.7374,Georgia Institute of Technology
+50158,75,163,163,4.5,0.838,Georgia Institute of Technology
+50159,52,130,168.0851064,5.5,0.78,Georgia Institute of Technology
+50226,72,152,165,3.5,0.8619,George Mason University
+50227,112,130,157.4468085,5,0.67,George Mason University
+50228,45,134.0425532,157.4468085,4.5,0.64,George Mason University
+50229,180,146,160,3.5,0.802,George Mason University
+50230,72,130,157.4468085,3.5,0.73,George Mason University
+50231,72,130,159.5744681,4,0.74,George Mason University
+50232,52,146,157,4,0.64,George Mason University
+50233,75,144,155,3.5,0.77,George Mason University
+50234,45,130,163.8297872,3.5,0.7,George Mason University
+50235,40,130,159.5744681,3.5,0.7066,George Mason University
+50236,45,130,165.9574468,3.5,0.73,George Mason University
+50237,112,145,158,3,0.56,George Mason University
+50238,52,130,168.0851064,3,0.6809,George Mason University
+50239,84,146,159,3,0.65,George Mason University
+50240,52,130,159.5744681,4,0.7747,George Mason University
+50241,125,144,160,3,0.7775,George Mason University
+50242,180,147,154,3,0.64,George Mason University
+50243,52,130,157.4468085,4,0.59,George Mason University
+50244,52,153,153,3,0.64,George Mason University
+50245,46,130,163.8297872,3,0.7,George Mason University
+50246,125,145,167,3,0.65,George Mason University
+50250,37,130,163.8297872,3.5,0.69,Cornell University
+50252,70,152,160,3,0.867,Cornell University
+50253,89,163,166,5,0.82,Cornell University
+50254,75,134.0425532,170.212766,4.5,0.848,Cornell University
+50255,13,156,161,4,0.84,Cornell University
+50256,72,145,162,4,0.924,Cornell University
+50257,45,152,160,4,0.746,Cornell University
+50258,52,154,164,4,0.715,Cornell University
+50259,52,150,161,3,0.8307,Cornell University
+50260,52,131.9148936,170.212766,5.5,0.98,Cornell University
+50261,84,154,164,3.5,0.75,Cornell University
+50262,52,151,165,4.5,0.79,Cornell University
+50263,152,146.8085106,170.212766,6,0.74,Cornell University
+50264,52,158,160,0,0.8107,Cornell University
+50265,52,159,164,4,0.8,Cornell University
+50266,72,130,168.0851064,4,0.78,Cornell University
+50267,52,130,155.3191489,0,0.8,Cornell University
+50268,52,155.3191489,168.0851064,3.5,0.825,Cornell University
+50269,45,157,163,5,0.7374,Cornell University
+50270,84,130,165.9574468,4,0.88,Cornell University
+50271,52,144.6808511,170.212766,3,0.79,Cornell University
+50289,37,130,163.8297872,3.5,0.69,Columbia University
+50290,152,157,165,3.5,0.81,Columbia University
+50291,52,130,170.212766,4,0.79,Columbia University
+50292,52,130,170.212766,3.5,0.72,Columbia University
+50293,152,146.8085106,170.212766,6,0.74,Columbia University
+50294,72,130,170.212766,3,0.77,Columbia University
+50295,72,134.0425532,155.3191489,4,0.86,Columbia University
+50296,72,146.8085106,159.5744681,4.5,0.877,Columbia University
+50297,52,130,168.0851064,4.5,0.71,Columbia University
+50298,75,163,163,4.5,0.838,Columbia University
+50299,52,163.8297872,163.8297872,3.5,0.78,Columbia University
+50300,52,130,159.5744681,3.5,0.7932,Columbia University
+50301,52,148.9361702,168.0851064,5,0.725,Columbia University
+50307,52,130,159.5744681,3.5,0.71,Clemson University
+50308,152,130,159.5744681,3.5,0.7666,Clemson University
+50309,52,153,157,4,0.66,Clemson University
+50310,52,153,158,3.5,0.7,Clemson University
+50311,45,155,158,4.5,0.73,Clemson University
+50312,52,153,158,4,0.75,Clemson University
+50313,84,138.2978723,165.9574468,0,0.7371,Clemson University
+50314,84,154,162,3.5,0.831,Clemson University
+50315,152,130,165.9574468,4,0.77,Clemson University
+50316,75,154,159,3.5,0.8008,Clemson University
+50317,152,152,160,3,0.735,Clemson University
+50318,52,156,169,3.5,0.7,Clemson University
+50319,37,160,159,3.5,0.805,Clemson University
+50320,106,147,158,3.5,0.73,Clemson University
+50321,22,130,170.212766,5,0.7,Clemson University
+50322,152,148,159,3.5,0.77,Clemson University
+50344,52,130,163.8297872,4.5,0.67,Carnegie Mellon University
+50345,37,130,163.8297872,3.5,0.69,Carnegie Mellon University
+50346,52,148.9361702,159.5744681,4,0.79,Carnegie Mellon University
+50347,52,153,163,4,0.8368,Carnegie Mellon University
+50348,46,136.1702128,155.3191489,4,0.822,Carnegie Mellon University
+50349,52,157,161,4.5,0.881,Carnegie Mellon University
+50350,28,142.5531915,155.3191489,4.5,0.72,Carnegie Mellon University
+50351,75,140.4255319,163.8297872,4,0.75,Carnegie Mellon University
+50352,52,162,167,0,0.72,Carnegie Mellon University
+50353,45,136.1702128,168.0851064,0,0.76,Carnegie Mellon University
+50354,125,165,153,5.5,0.75,Carnegie Mellon University
+50355,126,130,165.9574468,3,0.67,Carnegie Mellon University
+50356,52,130,170.212766,3,0.82,Carnegie Mellon University
+50357,152,146.8085106,170.212766,6,0.74,Carnegie Mellon University
+50358,72,130,168.0851064,4,0.701,Carnegie Mellon University
+50359,52,149,157,4,0.888,Carnegie Mellon University
+50360,125,162,161,4,0.8,Carnegie Mellon University
+50361,125,34,49,4.5,0.67,Carnegie Mellon University
+50362,52,130,170.212766,4.5,0.79,Carnegie Mellon University
+50363,125,130,165.9574468,3,0.73,Carnegie Mellon University
+50364,111,36,49,4.5,0,Carnegie Mellon University
+50365,125,152,163,3,0.81,Carnegie Mellon University
+50366,113,131.9148936,157.4468085,3.5,0.64,Carnegie Mellon University
+50367,72,130,170.212766,4,0.762,Carnegie Mellon University
+50368,86,155,162,4,0.7962,Carnegie Mellon University
+50369,125,130,163.8297872,0,0,Carnegie Mellon University
+50370,72,146.8085106,159.5744681,4.5,0.877,Carnegie Mellon University
+50371,125,130,170.212766,0,0.8,Carnegie Mellon University
+50372,84,168,165,3.5,0.747,Carnegie Mellon University
+50373,52,130,168.0851064,4.5,0.71,Carnegie Mellon University
+50374,45,130,159.5744681,4.5,0.8275,Carnegie Mellon University
+50375,125,165,161,4,0.781,Carnegie Mellon University
+50376,125,130,165.9574468,3,0.73,Carnegie Mellon University
+50377,84,130,165.9574468,4,0.88,Carnegie Mellon University
+50378,84,160,162,4,0.864,Carnegie Mellon University
+50379,52,130,151.0638298,3,0.72,Carnegie Mellon University
+50380,66,134.0425532,170.212766,3.5,0.87,Carnegie Mellon University
+50381,52,148.9361702,168.0851064,5,0.725,Carnegie Mellon University
+50414,180,130,165.9574468,3.5,0.82,Arizona State University
+50415,45,151.0638298,168.0851064,4,0.825,Arizona State University
+50416,52,158,163,3.5,0.69,Arizona State University
+50417,72,130,155.3191489,4,0.7838,Arizona State University
+50418,84,144,162,2,0.8715,Arizona State University
+50419,52,153,161,3.5,0.845,Arizona State University
+50420,72,130,165.9574468,3.5,0.774,Arizona State University
+50421,52,153,157,4,0.683,Arizona State University
+50422,52,130,161.7021277,4,0.78,Arizona State University
+50423,76,130,163.8297872,3.5,0.7646,Arizona State University
+50424,84,136.1702128,170.212766,4,0.77,Arizona State University
+50425,52,154,163,4,0.78,Arizona State University
+50426,22,146,164,3,0.718,Arizona State University
+50428,72,130,163.8297872,1230,0.824,Arizona State University
+50429,45,143,166,3,0.87,Arizona State University
+50430,52,148,161,3.5,0.72,Arizona State University
+50431,84,130,170.212766,4.5,0.75,Arizona State University
+50432,52,150,159,4,0.746,Arizona State University
+50433,52,156,160,3.5,0.79,Arizona State University
+50434,52,142,161,3.5,0.857,Arizona State University
+50435,52,148.9361702,159.5744681,4,0.79,Arizona State University
+50436,52,151,160,3,0.818,Arizona State University
+50437,52,154,168,4,0.7,Arizona State University
+50438,52,150,160,3.5,0.76,Arizona State University
+50439,76,154,168,3.5,0.85,Arizona State University
+50440,152,130,159.5744681,3.5,0.7666,Arizona State University
+50441,72,140.4255319,170.212766,3.5,0,Arizona State University
+50442,70,156,162,4,0.957,Arizona State University
+50443,52,154,163,3,0.78,Arizona State University
+50444,72,145,162,4,0.924,Arizona State University
+50445,52,130,165.9574468,4,0.745,Arizona State University
+50446,34,161,165,3.5,0.759,Arizona State University
+50447,84,155,168,3.5,0.874,Arizona State University
+50448,72,130,159.5744681,4,0.74,Arizona State University
+50449,20,151,161,3,0.7,Arizona State University
+50450,52,154,164,4,0.715,Arizona State University
+50451,84,153,162,3.5,0.83,Arizona State University
+50452,52,130,146.8085106,4,0.6876,Arizona State University
+50453,52,130,151.0638298,3,0.805,Arizona State University
+50454,72,151,162,4,0.77,Arizona State University
+50455,52,130,165.9574468,4,0.77,Arizona State University
+50456,106,146.8085106,170.212766,3.5,0.885,Arizona State University
+50457,52,162,161,4,0.923,Arizona State University
+50458,72,130,165.9574468,3.5,0.79,Arizona State University
+50459,52,155,159,4.5,0.697,Arizona State University
+50460,72,130,170.212766,4.5,0.8044,Arizona State University
+50461,52,130,168.0851064,3,0.805,Arizona State University
+50462,52,130,155.3191489,3.5,0.67,Arizona State University
+50463,22,130,163.8297872,3.5,0.745,Arizona State University
+50464,72,149,161,3.5,0.84,Arizona State University
+50465,52,151,158,3.5,0.76,Arizona State University
+50466,45,152,167,3.5,0.69,Arizona State University
+50467,52,154,164,4,0.769,Arizona State University
+50468,84,130,170.212766,3.5,0.89,Arizona State University
+50469,52,130,170.212766,4,0.79,Arizona State University
+50470,52,154,161,4,0.7665,Arizona State University
+50471,52,150,163,4,0.7,Arizona State University
+50472,52,157,162,3,0.89,Arizona State University
+50473,52,149,161,3.5,0.7495,Arizona State University
+50474,72,146,167,3.5,0.855,Arizona State University
+50475,52,130,159.5744681,4,0.87,Arizona State University
+50476,52,151,165,4.5,0.79,Arizona State University
+50477,52,130,163.8297872,4,0.7567,Arizona State University
+50478,152,148,167,4,0.923,Arizona State University
+50479,52,148,160,3,0.72,Arizona State University
+50480,81,130,168.0851064,3.5,0.77,Arizona State University
+50481,52,154,161,3,0.85,Arizona State University
+50482,52,153,161,3,0.8333,Arizona State University
+50483,52,165,157,3.5,0.76,Arizona State University
+50484,52,158,160,0,0.8107,Arizona State University
+50485,52,153,163,3.5,0.886,Arizona State University
+50486,52,160,164,4,0.75,Arizona State University
+50487,72,150,158,3.5,0.899,Arizona State University
+50488,84,151,159,3,0.89,Arizona State University
+50489,84,150,162,3,0.925,Arizona State University
+50490,52,155,166,4,0.76,Arizona State University
+50491,22,155,161,4,0.73,Arizona State University
+50492,76,130,153.1914894,3.5,0.7886,Arizona State University
+50493,152,158,161,4.5,0.73,Arizona State University
+50494,52,130,165.9574468,4,0.752,Arizona State University
+50495,52,130,170.212766,3.5,0.75,Arizona State University
+50496,72,130,161.7021277,3,0.74,Arizona State University
+50497,37,130,163.8297872,4,0.746,Arizona State University
+50498,52,145,160,3,0.74,Arizona State University
+50499,46,130,170.212766,3.5,0.86,Arizona State University
+50500,72,149,159,3,0.8123,Arizona State University
+50501,46,161.7021277,170.212766,4,0.79,Arizona State University
+50502,52,150,162,3,0.73,Arizona State University
+50503,52,130,170.212766,0,0.82,Arizona State University
+50504,52,148,159,3.5,0,Arizona State University
+50505,52,142,164,3,0.849,Arizona State University
+50506,84,130,157.4468085,3.5,0.8,Arizona State University
+50507,52,167,160,4.5,0.8,Arizona State University
+50508,52,130,151.0638298,3,0.8,Arizona State University
+50509,72,152,159,4,0.76,Arizona State University
+50510,72,130,170.212766,4.5,0.75,Arizona State University
+50511,72,130,170.212766,4,0.83,Arizona State University
+50512,84,168,165,3.5,0.747,Arizona State University
+50513,52,130,168.0851064,4.5,0.71,Arizona State University
+50514,45,138.2978723,148.9361702,4.5,0.78,Arizona State University
+50515,52,146,159,3.5,0.74,Arizona State University
+50516,84,144,166,2.5,0.745,Arizona State University
+50517,22,153,164,4.5,0.826,Arizona State University
+50518,52,130,153.1914894,3.5,0.82,Arizona State University
+50519,52,161.7021277,153.1914894,4.5,0.76,Arizona State University
+50520,52,154,162,4,0.81,Arizona State University
+50521,84,159,158,3,0.8017,Arizona State University
+50522,52,150,159,4,0.725,Arizona State University
+50523,72,146.8085106,170.212766,5,0.985,Arizona State University
+50524,52,136.1702128,148.9361702,3.5,0.75,Arizona State University
+50525,45,154,165,3.5,0.79,Arizona State University
+50526,106,149,159,4.5,0.72,Arizona State University
+50527,84,130,170.212766,3.5,0.77,Arizona State University
+50528,147,151,157,3.5,0.7,Arizona State University
+50529,52,134.0425532,168.0851064,3.5,0.847,Arizona State University
+50530,52,130,168.0851064,5.5,0.78,Arizona State University
+50531,45,156,164,4,0.7,Arizona State University
+50532,52,130,161.7021277,0,0.79,Arizona State University
+50533,52,130,165.9574468,3.5,0.73,Arizona State University
+50534,52,130,168.0851064,4,0.81,Arizona State University
+50535,72,130,153.1914894,4,0.79,Arizona State University
+50536,72,130,159.5744681,3,0.8441,Arizona State University
+50537,52,138.2978723,157.4468085,3,0.754,Arizona State University
+50538,52,130,151.0638298,3,0.72,Arizona State University
+50539,52,150,157,3.5,0.7347,Arizona State University
+50540,52,152,161,3.5,0.825,Arizona State University
+50541,152,148,163,3,0.894,Arizona State University
+50542,152,148,159,3.5,0.77,Arizona State University
+50543,152,145,161,3.5,0.756,Arizona State University
+50544,72,145,161,3,0.71,Arizona State University
+50626,72,140,157,2.5,0.8112,New Jersey Institute of Technology
+50627,78,130,168.0851064,3.5,0.8,University of Southern California
+50628,52,130,170.212766,3.5,0.785,University of Texas Dallas
+50629,52,130,170.212766,3.5,0.785,Arizona State University
+50631,72,151,167,3.5,0.74,Wayne State University
+50635,84,130,165.9574468,3.5,0.76,University of Texas Dallas
+50637,52,162,154,4.5,0.806,University of Texas Dallas
+50646,52,148,161,3,0.766,University of Texas Arlington
+50647,84,157,156,3,0.694,University of Texas Arlington
+50648,76,130,148.9361702,3,0.66,University of Texas Arlington
+50650,52,154,164,3.5,0.724,University of North Carolina Charlotte
+50651,84,157,156,3,0.694,University of North Carolina Charlotte
+50655,52,156,163,3,0.734,University of Maryland College Park
+50657,84,130,165.9574468,3.5,0.76,University of Florida
+50658,52,160,168,3.5,0.75,University of Florida
+50659,37,144,153,2.5,0.67,University of Florida
+50667,52,156,163,3,0.734,Texas A and M University College Station
+50668,37,144,153,2.5,0.67,Texas A and M University College Station
+50670,76,130,148.9361702,3,0.66,Syracuse University
+50674,52,130,163.8297872,3.5,0.6371,SUNY Buffalo
+50675,52,162,154,4.5,0.806,SUNY Buffalo
+50676,52,150,166,3,0.845,Rutgers University New Brunswick/Piscataway
+50678,52,130,163.8297872,3.5,0.6371,Ohio State University Columbus
+50680,52,162,154,4.5,0.806,Northeastern University
+50682,52,160,168,3.5,0.75,North Carolina State University
+50687,45,149,156,3,0.5803,New Jersey Institute of Technology
+50691,52,148,161,3,0.766,Clemson University
+50693,52,160,168,3.5,0.75,Arizona State University
+50694,52,150,166,3,0.845,Arizona State University
+50701,125,147,162,0,0.62,University of Texas Dallas
+50703,113,130,251.0638298,0,0.67,University of Texas Arlington
+50706,72,153.1914894,163.8297872,3.5,0,University of Colorado Boulder
+50710,72,153.1914894,163.8297872,3.5,0,Georgia Institute of Technology
+50712,52,136.1702128,163.8297872,4,0.53,George Mason University
+50717,125,150,159,3.5,0.77,University of Washington
+50718,52,150,161,3.5,0.838,University of Utah
+50719,52,130,159.5744681,3.5,0.872,University of Utah
+50722,23,150,157,3,0.945,University of Texas Dallas
+50723,77,150,158,3.5,0.977,University of Texas Dallas
+50724,52,150,161,3.5,0.838,University of Texas Dallas
+50725,113,152,160,0,0.82,University of Texas Dallas
+50726,52,130,159.5744681,3.5,0.872,University of Texas Dallas
+50727,72,130,163.8297872,3,0.825,University of Texas Dallas
+50728,72,130,153.1914894,4,0.854,University of Texas Dallas
+50729,45,150,161,3,0.819,University of Texas Dallas
+50730,52,151,161,2.5,0.856,University of Texas Dallas
+50731,72,130,163.8297872,3,0.8,University of Texas Dallas
+50732,180,130,159.5744681,3.5,0.833,University of Texas Dallas
+50733,52,130,170.212766,3,0.785,University of Texas Dallas
+50734,52,147,158,4,0.836,University of Texas Dallas
+50738,52,140.4255319,170.212766,4,0.893,University of Texas Arlington
+50739,52,154,162,3.5,0.84,University of Texas Arlington
+50740,72,147,158,3,0.871,University of Texas Arlington
+50741,52,149,154,3,0.85,University of Southern California
+50745,72,148,163,4,0.845,University of North Carolina Charlotte
+50746,77,150,158,3.5,0.977,University of North Carolina Charlotte
+50747,0,150,152,3.5,0.955,University of North Carolina Charlotte
+50748,52,148,160,3.5,0.786,University of North Carolina Charlotte
+50753,72,130,163.8297872,3,0.825,University of Massachusetts Amherst
+50755,125,150,159,3.5,0.77,University of Maryland College Park
+50757,52,140.4255319,170.212766,4,0.893,University of Illinois Chicago
+50758,52,156,166,4,0.818,University of Illinois Chicago
+50759,113,152,160,0,0.82,University of Illinois Chicago
+50760,125,150,159,3.5,0.77,University of Illinois Chicago
+50761,125,159,164,3.5,0.807,University of Illinois Chicago
+50762,52,154,162,3.5,0.84,University of Illinois Chicago
+50763,72,130,163.8297872,3,0.825,University of Illinois Chicago
+50764,84,157,164,4,0.736,University of Illinois Chicago
+50765,13,138.2978723,148.9361702,4,0.905,University of Illinois Chicago
+50766,2,130,159.5744681,3.5,0.838,University of Florida
+50767,52,148,164,3,0.816,University of Florida
+50768,25,166,164,4,0.783,University of Florida
+50769,72,130,153.1914894,4,0.854,University of Florida
+50770,52,147,158,4,0.836,University of Florida
+50773,52,130,165.9574468,3,0.846,University of Colorado Boulder
+50778,2,130,159.5744681,3.5,0.838,University of Cincinnati
+50779,52,150,161,3.5,0.838,University of Cincinnati
+50780,72,130,153.1914894,4,0.854,University of Cincinnati
+50782,52,149,154,3,0.85,University of California San Diego
+50784,52,149,154,3,0.85,University of California Irvine
+50785,13,138.2978723,148.9361702,4,0.905,University of California Irvine
+50786,52,146,167,3,0.893,University of California Irvine
+50796,125,159,164,3.5,0.807,Texas A and M University College Station
+50799,52,130,165.9574468,3,0.846,Syracuse University
+50800,125,150,159,3.5,0.77,Syracuse University
+50801,72,148,163,4,0.845,SUNY Stony Brook
+50807,52,156,166,4,0.818,SUNY Buffalo
+50808,72,130,165.9574468,3,0.839,SUNY Buffalo
+50809,125,150,159,3.5,0.77,SUNY Buffalo
+50810,25,166,164,4,0.783,SUNY Buffalo
+50811,72,130,163.8297872,3,0.825,SUNY Buffalo
+50820,52,130,165.9574468,4,0.847,Purdue University
+50821,72,157,167,5,0.9,Purdue University
+50824,52,140.4255319,170.212766,4,0.893,Ohio State University Columbus
+50825,25,166,164,4,0.783,Ohio State University Columbus
+50828,125,150,159,3.5,0.77,Northeastern University
+50839,84,148,161,3,0.7,New York University
+50840,25,166,164,4,0.783,New York University
+50841,52,160,164,3,0.819,New York University
+50842,112,130,159.5744681,3,0.784,Johns Hopkins University
+50843,52,140.4255319,170.212766,4,0.893,Georgia Institute of Technology
+50844,84,130,170.212766,4,0.904,Georgia Institute of Technology
+50848,52,148,164,3,0.816,George Mason University
+50849,112,130,159.5744681,3,0.784,George Mason University
+50850,84,130,170.212766,4,0.904,Cornell University
+50852,52,130,165.9574468,4,0.847,Columbia University
+50855,52,140.4255319,170.212766,4,0.893,Clemson University
+50857,25,166,164,4,0.783,Carnegie Mellon University
+50858,52,148,160,3.5,0.786,Carnegie Mellon University
+50862,2,130,159.5744681,3.5,0.838,Arizona State University
+50863,52,130,165.9574468,3,0.846,Arizona State University
+50864,52,156,166,4,0.818,Arizona State University
+50865,52,154,166,4,0.77,Arizona State University
+50866,84,130,163.8297872,3,0.08,Arizona State University
+50867,72,130,165.9574468,3,0.839,Arizona State University
+50868,52,130,165.9574468,4,0.847,Arizona State University
+50869,52,150,161,3.5,0.838,Arizona State University
+50870,52,154,162,3.5,0.84,Arizona State University
+50871,72,130,163.8297872,3,0.8,Arizona State University
+50872,52,130,170.212766,3,0.785,Arizona State University
+50873,52,147,158,4,0.836,Arizona State University
+50877,52,149,160,4,0.79,University of Texas Dallas
+50881,52,149,160,4,0.79,SUNY Buffalo
+50883,52,149,160,4,0.79,Arizona State University
+50886,46,154,161,5,0.829,Wayne State University
+50887,152,142,161,3,0.745,Wayne State University
+50888,52,166,166,4,0.816,Virginia Polytechnic Institute and State University
+50889,152,156,165,3,0.928,Virginia Polytechnic Institute and State University
+50903,52,166,166,4,0.816,University of Utah
+50904,52,151,163,0,0.814,University of Utah
+50905,75,150,155,3,0.85,University of Utah
+50911,52,152,162,3,0.762,University of Texas Dallas
+50912,180,154,158,3.5,0.864,University of Texas Dallas
+50913,52,145,161,3.5,0.782,University of Texas Dallas
+50914,72,157,170,4,0.879,University of Texas Dallas
+50915,125,130,163.8297872,3.5,0.81,University of Texas Dallas
+50916,70,152,161,3,0.885,University of Texas Dallas
+50917,52,148,161,3,0.73,University of Texas Dallas
+50918,84,155,163,3,0.854,University of Texas Dallas
+50919,126,150,157,3.5,0.85,University of Texas Dallas
+50920,52,130,168.0851064,4,0.792,University of Texas Dallas
+50921,52,130,161.7021277,5,0.814,University of Texas Dallas
+50922,125,156,159,3,0.9625,University of Texas Dallas
+50923,72,130,165.9574468,3.5,0.836,University of Texas Dallas
+50924,75,150,155,3,0.85,University of Texas Dallas
+50925,52,144,159,3,0.845,University of Texas Dallas
+50926,84,147,163,3,0.918,University of Texas Dallas
+50927,52,158,168,3.5,0.831,University of Texas Dallas
+50928,78,130,165.9574468,3.5,0.856,University of Texas Dallas
+50929,45,146.8085106,168.0851064,4,0.834,University of Texas Dallas
+50930,125,144,158,0,0.825,University of Texas Dallas
+50936,106,130,153.1914894,3.5,0.792,University of Texas Arlington
+50937,180,154,158,3.5,0.864,University of Texas Arlington
+50938,72,157,170,4,0.879,University of Texas Arlington
+50939,126,150,157,3.5,0.85,University of Texas Arlington
+50940,52,130,168.0851064,4,0.792,University of Texas Arlington
+50941,52,130,161.7021277,5,0.814,University of Texas Arlington
+50942,52,144,159,3,0.845,University of Texas Arlington
+50943,13,158,162,4.5,0.805,University of Texas Arlington
+50944,72,147,160,3,0.745,University of Texas Arlington
+50945,45,146.8085106,168.0851064,4,0.834,University of Texas Arlington
+50947,70,152,161,3,0.885,University of Southern California
+50948,72,151.0638298,159.5744681,3.5,0.845,University of Southern California
+50949,72,152,165,4,0.9425,University of Southern California
+50954,9,130,161.7021277,3,0.755,University of North Carolina Charlotte
+50955,52,152,162,3,0.762,University of North Carolina Charlotte
+50956,52,145,161,3.5,0.782,University of North Carolina Charlotte
+50957,52,148,156,3,0.761,University of North Carolina Charlotte
+50958,152,142,161,3,0.745,University of North Carolina Charlotte
+50959,52,156,169,3.5,0.881,University of Minnesota Twin Cities
+50960,84,147,163,3,0.918,University of Minnesota Twin Cities
+50967,84,155,163,3,0.854,University of Massachusetts Amherst
+50968,78,130,165.9574468,3.5,0.856,University of Massachusetts Amherst
+50971,180,154,158,3.5,0.864,University of Maryland College Park
+50972,84,161,159,3.5,0.87,University of Maryland College Park
+50974,106,130,153.1914894,3.5,0.792,University of Illinois Chicago
+50975,52,130,170.212766,3.5,0.85,University of Illinois Chicago
+50976,72,157,170,4,0.879,University of Illinois Chicago
+50977,125,154,159,4,0.796,University of Illinois Chicago
+50978,125,130,163.8297872,3.5,0.81,University of Illinois Chicago
+50979,52,130,168.0851064,4,0.792,University of Illinois Chicago
+50980,72,152,158,3.5,0.864,University of Illinois Chicago
+50981,125,153,165,0,0.83,University of Illinois Chicago
+50982,125,130,155.3191489,2.5,0.77,University of Illinois Chicago
+50983,52,155,159,3.5,0.784,University of Illinois Chicago
+50984,13,158,162,4.5,0.805,University of Illinois Chicago
+50985,34,156,165,4.5,0.839,University of Illinois Chicago
+50988,72,150,164,4,0.891,University of Florida
+50989,84,161,159,3.5,0.87,University of Florida
+50990,52,136.1702128,170.212766,4,0.803,University of Florida
+50991,72,157,170,4,0.879,University of Florida
+50992,72,151.0638298,159.5744681,3.5,0.845,University of Florida
+50993,45,161,170,4.5,0.866,University of Florida
+50994,78,130,165.9574468,3.5,0.856,University of Florida
+50995,45,146.8085106,168.0851064,4,0.834,University of Florida
+51002,152,156,165,3,0.928,University of Colorado Boulder
+51003,180,158,162,4,0.81,University of Colorado Boulder
+51006,72,150,164,4,0.891,University of Cincinnati
+51007,46,154,161,5,0.829,University of Cincinnati
+51008,52,157,158,3.5,0.804,University of Cincinnati
+51009,52,147,159,0,0.84,University of Cincinnati
+51010,52,161,169,4.5,0.879,University of Cincinnati
+51011,125,156,159,3,0.9625,University of Cincinnati
+51012,125,153,165,0,0.83,University of Cincinnati
+51013,152,130,170.212766,3.5,0.766,University of Cincinnati
+51014,52,159,167,3.5,0.845,University of Cincinnati
+51021,52,159,167,3.5,0.845,University of California Santa Barbara
+51025,52,161,169,4.5,0.879,University of California Irvine
+51026,89,163,168,4.5,0.807,University of California Irvine
+51033,125,130,163.8297872,3.5,0.81,University of Arizona
+51034,125,153,165,0,0.83,University of Arizona
+51035,72,152,165,4,0.9425,University of Arizona
+51038,125,153,165,0,0.83,Texas A and M University College Station
+51039,125,130,155.3191489,2.5,0.77,Texas A and M University College Station
+51040,52,159,167,3.5,0.845,Texas A and M University College Station
+51041,0,153,164,3.5,0.879,Texas A and M University College Station
+51053,52,157,158,3.5,0.804,Syracuse University
+51054,125,130,163.8297872,3.5,0.81,Syracuse University
+51055,52,151,164,3.5,0.786,Syracuse University
+51057,52,136.1702128,170.212766,4,0.803,SUNY Stony Brook
+51058,52,130,163.8297872,3,0.844,SUNY Stony Brook
+51063,106,130,153.1914894,3.5,0.792,SUNY Buffalo
+51064,52,152,162,3,0.762,SUNY Buffalo
+51065,52,166,166,4,0.816,SUNY Buffalo
+51066,52,161,169,4.5,0.879,SUNY Buffalo
+51067,106,148,155,3.5,0.87,SUNY Buffalo
+51068,72,152,158,3.5,0.864,SUNY Buffalo
+51069,52,130,161.7021277,5,0.814,SUNY Buffalo
+51070,125,156,159,3,0.9625,SUNY Buffalo
+51071,52,130,163.8297872,3,0.844,SUNY Buffalo
+51072,72,130,159.5744681,4,0.86,SUNY Buffalo
+51073,125,130,155.3191489,2.5,0.77,SUNY Buffalo
+51074,72,147,160,3,0.745,SUNY Buffalo
+51075,78,130,165.9574468,3.5,0.856,SUNY Buffalo
+51086,46,154,161,5,0.829,Ohio State University Columbus
+51087,52,161,169,4.5,0.879,Ohio State University Columbus
+51088,72,151.0638298,159.5744681,3.5,0.845,Ohio State University Columbus
+51089,52,130,161.7021277,5,0.814,Ohio State University Columbus
+51090,52,130,163.8297872,3,0.844,Ohio State University Columbus
+51091,72,152,165,4,0.9425,Ohio State University Columbus
+51092,52,158,168,3.5,0.831,Ohio State University Columbus
+51093,52,130,165.9574468,3.5,0.855,Ohio State University Columbus
+51099,52,145,161,3.5,0.782,Northeastern University
+51100,52,130,153.1914894,3.5,0.8,Northeastern University
+51101,180,145,154,2.5,0.723,Northeastern University
+51102,72,130,159.5744681,4,0.86,Northeastern University
+51103,52,151,164,3.5,0.786,Northeastern University
+51104,125,144,158,0,0.825,Northeastern University
+51106,106,130,153.1914894,3.5,0.792,North Carolina State University
+51107,52,136.1702128,170.212766,4,0.803,North Carolina State University
+51108,52,130,170.212766,3.5,0.85,North Carolina State University
+51109,52,166,166,4,0.816,North Carolina State University
+51110,52,161,169,4.5,0.879,North Carolina State University
+51111,72,151.0638298,159.5744681,3.5,0.845,North Carolina State University
+51112,52,130,161.7021277,5,0.814,North Carolina State University
+51113,52,130,163.8297872,3,0.844,North Carolina State University
+51114,52,158,168,3.5,0.831,North Carolina State University
+51115,152,130,170.212766,3.5,0.766,North Carolina State University
+51124,52,136.1702128,170.212766,4,0.803,New York University
+51126,52,130,153.1914894,3.5,0.8,New Jersey Institute of Technology
+51127,52,148,161,3,0.73,New Jersey Institute of Technology
+51128,52,150,160,3,0.782,New Jersey Institute of Technology
+51129,72,158,161,4,0.784,New Jersey Institute of Technology
+51131,52,166,166,4,0.816,Johns Hopkins University
+51132,89,163,168,4.5,0.807,Johns Hopkins University
+51133,72,157,170,4,0.879,Georgia Institute of Technology
+51139,9,130,161.7021277,3,0.755,Clemson University
+51141,125,154,159,4,0.796,Carnegie Mellon University
+51142,125,153,165,0,0.83,Carnegie Mellon University
+51143,72,152,165,4,0.9425,Carnegie Mellon University
+51145,84,161,159,3.5,0.87,Arizona State University
+51146,80,130,170.212766,3.5,0.853,Arizona State University
+51147,70,152,161,3,0.885,Arizona State University
+51148,52,148,161,3,0.73,Arizona State University
+51149,52,166,166,4,0.816,Arizona State University
+51150,52,151,163,0,0.814,Arizona State University
+51151,72,130,165.9574468,3.5,0.836,Arizona State University
+51152,52,130,163.8297872,3,0.844,Arizona State University
+51153,84,147,163,3,0.918,Arizona State University
+51154,52,130,165.9574468,3.5,0.855,Arizona State University
+51161,52,130,170.212766,4,0.8,University of Southern California
+51162,52,130,170.212766,4,0.8,University of Michigan Ann Arbor
+51163,52,130,170.212766,4,0.8,University of Colorado Boulder
+51164,52,130,170.212766,4,0.8,New York University
+51165,125,153,158,4.5,0.88,University of Texas Dallas
+51167,125,153,158,4.5,0.88,Syracuse University
+51169,52,151,156,3,0.6265,University of North Carolina Charlotte
+51171,52,151,156,3,0.6265,Northeastern University
+51172,135,150,164,3.3,0,University of Texas Dallas
+51173,135,150,164,3.3,0,University of Florida
+51176,52,130,161.7021277,4,0.60084,University of Illinois Chicago
+51182,52,130,161.7021277,4,0.60084,George Mason University
+51183,52,157,161,4,0.67,University of Illinois Chicago
+51193,153,150,160,3,0.8,SUNY Buffalo
+51194,52,130,161.7021277,3,0.7768,University of Texas Dallas
+51196,91,130,151.0638298,4,0.6476,University of Utah
+51200,91,130,151.0638298,4,0.6476,Texas A and M University College Station
+51202,91,130,151.0638298,4,0.6476,Carnegie Mellon University
+51203,72,130,170.212766,3.5,0.8,University of Texas Dallas
+51208,152,144,160,3.5,0.665,Wayne State University
+51210,81,130,170.212766,3.5,0.7891,University of Texas Dallas
+51211,72,130,157.4468085,3,0.74,University of Texas Dallas
+51212,72,130,161.7021277,3,0.788,University of Texas Dallas
+51213,52,130,159.5744681,3,0.67,University of Texas Dallas
+51214,52,155,162,4,0.802,University of Texas Dallas
+51215,72,130,161.7021277,3,0.788,University of Texas Dallas
+51218,84,130,168.0851064,3,0.64,University of Texas Arlington
+51219,72,130,157.4468085,3,0.74,University of Southern California
+51221,81,130,170.212766,3.5,0.7891,University of Minnesota Twin Cities
+51224,81,130,170.212766,3.5,0.7891,University of Massachusetts Amherst
+51227,78,130,159.5744681,3.5,0,University of Maryland College Park
+51228,152,130,168.0851064,3,0.64,University of Illinois Chicago
+51229,72,130,161.7021277,3,0.788,University of Illinois Chicago
+51230,72,130,170.212766,3.5,0.69,University of Florida
+51231,152,130,170.212766,3.5,0.722,University of Florida
+51235,152,130,168.0851064,3,0.64,University of Colorado Boulder
+51236,81,130,170.212766,3.5,0.7891,University of Colorado Boulder
+51240,72,150,170,3.5,0.644,University of California Irvine
+51247,72,130,161.7021277,3,0.788,SUNY Stony Brook
+51265,152,130,168.0851064,3,0.64,Clemson University
+51266,152,130,170.212766,3.5,0.722,Clemson University
+51269,81,130,170.212766,3.5,0.7891,Arizona State University
+51270,84,130,168.0851064,3,0.64,Arizona State University
+51271,72,130,161.7021277,3,0.788,Arizona State University
+51273,72,130,170.212766,4,0.865,University of Massachusetts Amherst
+51274,72,130,170.212766,4,0.865,Syracuse University
+51275,43,153,156,4.5,0.814,University of Texas Dallas
+51277,152,143,156,3.5,0.648,University of Texas Arlington
+51279,152,143,156,3.5,0.648,SUNY Stony Brook
+51283,40,130,153.1914894,3,0.62,New Jersey Institute of Technology
+51284,72,161,160,4,0.6886,Georgia Institute of Technology
+51289,52,157,150,3,0.754,University of Texas Dallas
+51290,52,147,170,3.5,0.881,University of Texas Dallas
+51293,45,142.5531915,170.212766,3.5,0.7757,University of Southern California
+51294,52,149,163,4,0.827,University of Southern California
+51295,52,147,170,3.5,0.881,University of Southern California
+51298,72,157,163,3,0.844,University of North Carolina Charlotte
+51299,23,158,167,4,0.67,University of North Carolina Charlotte
+51300,52,157,150,3,0.754,University of North Carolina Charlotte
+51301,71,158,170,3.5,0.9225,University of Minnesota Twin Cities
+51304,45,142.5531915,170.212766,3.5,0.7757,University of Florida
+51308,113,154,162,4,0.9575,University of Cincinnati
+51311,71,158,170,3.5,0.9225,University of California San Diego
+51317,113,154,162,4,0.9575,University of Arizona
+51318,113,154,162,4,0.9575,Texas A and M University College Station
+51327,52,149,163,4,0.827,Northeastern University
+51328,52,147,170,3.5,0.881,Northeastern University
+51329,45,142.5531915,170.212766,3.5,0.7757,North Carolina State University
+51330,72,157,163,3,0.844,North Carolina State University
+51335,71,158,170,3.5,0.9225,Georgia Institute of Technology
+51336,45,155,166,3.5,0.817,Georgia Institute of Technology
+51340,45,155,166,3.5,0.817,Carnegie Mellon University
+51343,72,157,163,3,0.844,Arizona State University
+51344,152,149,170,3.5,0.7734,Arizona State University
+51345,52,149,163,4,0.827,Arizona State University
+51346,72,131.9148936,157.4468085,3,0.865,University of Minnesota Twin Cities
+51351,72,131.9148936,157.4468085,3,0.865,Arizona State University
+51352,72,156,170,3.5,0.878,North Carolina State University
+51353,106,144.6808511,170.212766,3,0.92,University of Texas Austin
+51354,106,144.6808511,170.212766,3,0.92,University of Southern California
+51355,52,154,169,3,0.87,University of Southern California
+51356,52,154,169,3,0.87,University of Pennsylvania
+51357,52,154,169,3,0.87,Texas A and M University College Station
+51360,106,144.6808511,170.212766,3,0.92,Rutgers University New Brunswick/Piscataway
+51361,106,144.6808511,170.212766,3,0.92,Georgia Institute of Technology
+51362,52,154,169,3,0.87,Georgia Institute of Technology
+51364,52,154,169,3,0.87,Columbia University
